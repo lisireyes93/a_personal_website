@@ -3,4 +3,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 } 
+h1 {
+    font-family: fantasy;
+    text-align: center;
+}
 
