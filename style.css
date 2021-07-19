@@ -1,10 +1,23 @@
 body {
     background-image: url("https://cdn2.vectorstock.com/i/1000x1000/48/26/watercolor-banner-tropical-flowers-vector-24634826.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 } 
 h1 {
-    font-family: fantasy;
+    font-family: sans-serif;
     text-align: center;
+    color: rgb(64, 105, 64);
+    border-bottom-style: dotted;
+    border-width: thick;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
+p {
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(64, 105, 64);
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 25px;
+}
